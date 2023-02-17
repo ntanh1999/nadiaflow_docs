@@ -1,0 +1,4 @@
+sample,top_cells,max_mito,min_ribo,min_gene,min_umi,filter_doublet,min_cell,n_pcs,plot_genes
+S1,1000,1,0,0,0,false,0,10,MALAT1 mt-Atp8 MT-CO2
+S2,1000,1,0,0,0,false,0,10,MALAT1 mt-Atp8 MT-CO2
+S3,1000,1,0,0,0,false,0,10,MALAT1 mt-Atp8 MT-CO2
